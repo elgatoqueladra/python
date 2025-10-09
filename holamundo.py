@@ -1,5 +1,4 @@
 
-print("hola mundo")
 
 
 peso = float(input("Introduce tu peso en kg: "))
